@@ -1,7 +1,9 @@
 **Machine Learning Repository**
+
 This repository contains various machine learning models implemented in Python. It includes examples of different algorithms and techniques used in data science and machine learning tasks.
 
 **Files Included:**
+
 **Decision_Tree.ipynb:** Implementation of a decision tree classifier for classification tasks.
 
 **Linear_Ridge_and_Lasso.ipynb:** Demonstration of linear regression, ridge regression, and lasso regression.
